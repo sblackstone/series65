@@ -112,13 +112,14 @@
 * TrueRateOfReturn = Set R in NPV to zero and solve for r.
 
 ### Ratios
-* Sharpe Ratio     = The Sharpe ratio characterizes how well the return of an asset compensates the investor for the risk taken.
+* Sharpe Ratio     = The Sharpe ratio characterizes how well the return of an asset compensates the investor for the risk taken.   (Rate - RiskFreeRate) / StdDev(Returns)
 * PriceToEarnings  = (MarketPrice) / (Earnings Per Share)
 * BookValue        = (ShareHolder Equity - Intangibles)
 * PriceToBook      = (Common Stock Price) / (BookValue per Share)
 * PegRatio         = (P/E) / (Annual EPS Growth)
 * PriceToSalesRt   = (Common Stock Price) / (NetSales / CommonSharesOutstanding)
-* RealRateOfReturn = ((1 + nominal rate) / (1 + inflation rate)) - 1
+* RealRateOfReturn = ((1 + nominal rate) / (1 + inflation rate)) - 1     <-- Also called inflation adjusted returns.
+
 
 
 
@@ -131,7 +132,12 @@
 6.  Common Stock
 
 
-Stop - Page 63
+### Formulas
+* Risk Adjusted Return  = (RealRate - RiskFreeRate) / RiskMesasure
+* TotalReturn           = Dividends, Interest AND capital appreciation of asset.
+* TimeWeightedReturn    = [(1 + HPR1) * (1 + HRP2) ... ] - 1 where HPR = (EndValue - InitialValue + CashFlow) / (InitialValue + Cash Flow)
+
+
 
 
 

@@ -180,7 +180,58 @@
 # Chapter 5
 
 
+### Stock Types
+  * Preferred Stock  - "Preferred" dividend payments and liquidation priority.
+  * Cumulative Pref  - Must pay preferred dividends in arrears before paying any common dividends.
+  * Convertible Pref - Allows owner to convert pref. to common.
+  * Callable Pref    - Issuing corp can call the stock and retire it at a price.
+  * Common           - Plain old stock, no legal obligation to pay dividends.
+  * ADR              - Certificates that represent shares in foreign stock held elsewhere.
+  * Restricted       - Private placement where resale is prohibited.
+  * Control Stock    - Stock owned by by an officer or controlling person.
+  
+### Selling Control Stock
+  1.  Must be current financials available.
+  2.  Can only trade 1% of outstanding or the weekly average volume over last 4 weeks.
+  3.  Must not solict.
+  4.  Must use broker.
+  5.  No minimum hold period.
+  
+### Selling Restricted
+  1.  Issuer must remove "restricted" tag on stock.
+  2.  Must own the securities for at least 
+    - 6 months if company is required by SEC to report.
+    - 12 months otherwise.
+  3.  Must make financial information available.
+  4.  If stock trades on exchange, can only trade 1% of outstanding or avg weekly volume over last 4 weeks.
+  5.  Affiliated people must file Form 144 if their sale in a three month period > 5000 shares or > $50k
+  
 
+### Warrants
+  * Like a call option but long term.
+  
+### Option Types
+  * Incentive Stock Options    
+    - Must be employee of company.
+    - Recognize the gain when shares are sold, not when options exercised.  
+    - Long Term gain, not ordinary income.
+    
+  * Non-Qualified Stock Options
+    - Grantable to anyone
+    - Income Treated as ordinary income
+    
+  
+### Voting
+  * Staturory - can cast as many votes as he owns shares.
+  * Cumulative - If you own 300 shares and three slots are open on board, you'd get 900 shares and could put them all for one candidate.
+
+
+### Technical Analysis
+  * Support - price where the stock has not recently traded below
+  * Reistance - price where the stock has not recently traded above
+
+
+Page 133
 
 
 

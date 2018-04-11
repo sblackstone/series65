@@ -231,8 +231,62 @@
   * Reistance - price where the stock has not recently traded above
 
 
-Page 133
+### Discounted Cash Flow
+  * Considers all expected dividends that the company will pay and reduces them to present value dollars.
+  * Formula: CashFlow / (1 + CostOfCash)**Periods
+  * AKA  [CF1 / (1+r)^1] + [CF2 / (1+r)^2] ... [CFn]
+  * So as you go on in periods, the bottom part becomes greater due to compounding!
+  
+### Dividend Discount Model
+  * StockPrice = (Expected Dividend for YUear) / (discount rate - rate of dividend growth)
+  
+  
+  
+# Chapter 6
+  
+  
+### Viatical Settlements 
+  * Sell a life insurance policy to pay for current costs.
 
+
+### Fixed Annuities
+  * Payments are fixed for the lifetime of the Annuity
+  * No inflation protection
+
+### Variable Annuities
+  * Payouts vary month to month   
+  * Payments made accumulate "accumulation units"
+  * When payouts beign, they get changed into "Annuity Units"
+  * Riskier than fixed.
+  * Age of Annuitant can change how much they get paid all other things being equal
+  
+
+### Annuity Payout Options
+  * Life - gets paid until they die.
+  * Joint/Survivor - Payments continue to a dedicated survivor after annuitant dies.
+  * Life with Period Certain - Pays money even if the annitant dies prematurely.
+  
+### Immediate Annuities
+  * Payments begin immediately
+
+### Deferred Annuities
+  * Payout starts as some interterminate time in the future
+  
+### Surrender Annuity
+  * Giving up annuity will incur taxes and penalty.
+
+
+
+### Types of Life Insurance
+  * Whole Life - Pays at death but builds cash value.
+  * Pure Life Insurance - As amount builds up, the insurance company pays less.
+  * Term Life - Pays at death but has no cash value
+    - Decreasing term decreases as the person lives longer (or increasing or level are options too)
+  * Universal Life - Premiums are variable and you can even skip payments if enough cash balance is available to cover.
+  * Variable Life - Insurance protection varies according to an underlying index or separate account of bonds.
+  
+
+  
 
 
 

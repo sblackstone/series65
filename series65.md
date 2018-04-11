@@ -286,6 +286,21 @@
   * Variable Life - Insurance protection varies according to an underlying index or separate account of bonds.
   
 
+
+
+# Chapter 7
+
+
+### Types of Corps
+  * C Corp
+  * S Corp (C Corp with passthrough)
+  * LLC
+  
+  
+### Foundations and Charities
+  * From 501(c)(3)
+  * Must file form 990-PF
+  
   
 
 

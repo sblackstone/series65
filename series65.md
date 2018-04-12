@@ -304,6 +304,89 @@
   
 
 
+# Chapter 8
+
+### Capital Asset Pricing Model
+  * Tries to determine a fair price based on betas
+  * ExpectedReturn = RiskFreeRate + BetaOfSecurity*(ExpectedMarketReturn - RiskFreeRate)
+
+### Modern Portfolio Theory
+  * Portfolio should contain different securities and classes not positively correlated.
+
+
+### Market Cap
+  * Micro - < $300m
+  * Small - 200m - 2.5b
+  * Mid   - 2.5 to 10
+  * Large > $10bln
+  
+
+
+# Chapter 9
+
+
+### Gifted Stock from a Living Donor
+  * If there's a gain, use the original cost as basis.
+  * If there's a loss, use the price at the time of gift.
+  * If its between the two, there is no gain or loss.
+  
+
+### Retirement Plans
+  * Traditional IRA
+  * 401(K)
+  * Roth 401(K)
+  * Defined Contribution Pension - Longer the employee is covered, the more they get.  
+  * Defined Benefit - Employer puts aside an amount that allows them to cover a specific benefit to each employee.
+  * 457 - For local and state governments.
+  * 403(b) - For public schools, charities, and religious ministers.
+  * Deferred Comp - Employer deferes payment and agrees to pay it later as a retirement benefit.
+  * Payroll Deduction Plan - Deduct a set amount from an employee's net paycheck
+  
+  
+# Chapter 10
+
+### 529 Educational Savings Account
+  * Earnings are tax free.
+  * Must use money for college 
+  * States set max limits
+  * Penalty/Tax if not used for college
+  
+
+### Coverdell Accounts
+  * Max contribution of $2k/year
+  * Must utilize savings before age 30
+  * Can use money for any bona-fide educational expense including primary/secondary/high
+  
+  
+### Health Savings Account
+  * Money accumulates tax deferred
+  * If used for medical needs, no tax.
+  
+### UTMA (Uniform Transfer to Minors Account)
+  * Only one Minor and one custodian
+  * Can be charged tax on dividends, interst at the higher of minors tax rate orthe  parents tax rate.
+  
+### Account Ownership Types
+  * Join Tenancy - (HTWROS).  If one person dies, the other gets everything without probate and both own account
+  * Payable on Death - Listed in one person's name but money given to someone else in case of death.
+  * Tenancy In Common - When someone dies, that person's portion goes to estate.
+  * Qualified Domestic Relations Order -Divides beenefits of a pension plan after divorce.
+  
+  
+### Role of Broker Dealer
+  * Acting as Broker - Goes out and finds the shares to buy on someones behalf, charges commission.  (Agent)
+  * Acting as Dealer  - Sells shares from their account and charges a mark up.    (Principal)
+  
+  
+### 5 Percent Rule
+  * Must be fair when charging commissions / markups
+  * Does *not* mean they can charge 5%
+  
+  
+
+# Chapter 11 (pg 243)
+
+
 
 
 

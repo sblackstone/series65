@@ -387,8 +387,243 @@
 # Chapter 11 (pg 243)
 
 
+### Types of Sercurities
+  * Stocks or Bonds
+  * Debentures
+  * Collateral Trust Certificates 
+  * Preorganization Certificates
+  * Viatical Settlements
+  * Voting Trust Certificates
+  * Oil or Gas Interests
+  * Investment Contracts
+  * Options
+  * Profit Sharing Agreements
+  * Notes
+  * Warrants and Rights
+  * Whisky Warehouse Recipets
+  * Variable Annuities
+  * Limited Partnerships Ownership
+  * LLC Ownership
+   
+### Broad Definition
+  * Investment of monies
+  * Investment in common enterprise
+  * Reliance on a manager
+
+
+
+### Chapter 12 (pg 257)
+
+### Broker/Dealer must register with state unless:
+  * No place of business in state AND
+    - Deals only with issuers OR
+    - Deals only with other broker/dealers OR
+    - Deals only with Institutional Investors OR
+    - Deals only with federal advisers OR
+    - Deals only with existing customers living in another state OR
+    - Deals only with existing customers who have moved into state (BUT MUST FILE WITHIN 45 DAYS OF FIRST TRANSACTION) OR
+    - Deals with no more than 3 retail clients (<= 3) OR
+    - Deals with only US Government Securities and is reegistered under Federal Reserve bank or Comptroller of Currency.
+    
+
+### Agents
+  * Must register
+  * Must be licensed.
+  * Agents must be associated with registered broker dealer.
+  * Cannot be dual licenseed between brokres (But OK for IA Reps for more than one IA!)
+  
+
+
+### Securities 
+  * Must be registered unless
+    * it's a feederally covered security
+    * or its an exempt security 
+    
+    
+### Registration By Coordination
+  * Files at the same time as an SEC filing at federal level.
+
+### Registration By Qualification
+  * Does not intend to register federally, is qualifed to be registered in state.
+  
+  
+    
+### Exempt Securities
+  * Federally Covered OR
+  * US Gov Securities
+  * Munis 
+  * Foreign Govt Securities
+  * Bank Securities
+  
+### Federally Covereed Securities
+  * Listed Securitites on national exchange
+  * options
+  * securitites from options exercise
+  * private placements
+  * Investment Companies
+  
+  
+### Exempt Transactions
+  * Isolated Non-Issuer (ocasinoal sale of unregistered securities by an investor)
+  * Unsolicted Order to Purchase (must be via broker/dealer)
+  * Non-issuer transaction if ussuer files reports with SEC
+  * Transactions between underwriters and issuers
+  * Transactions by personal representativ of estates
+  * Transactions by federal Advisers
+  * Sales to Institutional Investors
+  * Limited Offerings (no more than 25 purchasers, no public solicitation, everyone is buying to hold and no commission other than broker/dealer)
+  
+  
+# Chapter 13
+  
+### Liabilities of Sellers
+  * The Sum of
+    - The anount paid for the security,
+    - Interest on the purchase price at the spcified % calculaed from the date the security was paid for
+    - Costs and Attorneys Fees
+  * Minus
+    - Dividends Received
+    
+    
+  OR
+  
+  * Can sue for actual damages: CostOfShares - WhatClientGotWhenSold
+
+### Liabilities of Purchasers
+  * Cannot induce someone through fraud to sell a security for less than its atually worth.
+  
+  
+### Liabilities of IAs
+  *  The sum of:
+    - Amount paid for advice
+    - Actual Damages
+    - Attorneys Fees
+  * Minus
+    - Any income from the security    
+
+
+### Jurisdiction
+  * A sale is made in a state if the offer is redceived in that state.
+  * An acceptance is made in whatever state the acceptance was made from
+    
+    
+### Statute of Limitations
+  * Person or Security Not Properly Registered: 1 Year
+  * Fraud: Within first five years following contract or within two years of learing of the violation - whichever is sooner.
 
 
 
 
+# Chapter 14
+
+
+### IA Registration
+  * Must register with SEC if > $110MM SEC
+  * May register with SEC between $100m and $110m
+  * May register with SEC if between $25m and $100m and has clients in atleast 15 states.
+  * Otherwise must register with state.
+  
+  
+### IA Reps Association
+  * IA reps must associate with an IA
+  * Dual association is ok for IA reps but not for broker dealers.
+  
+  
+### Effectiveness
+  * License applications efective 45 days after filing.
+  * Reg expires 12/31 each year
+  * Can withdraw/resign, becomes effective 60 days after submitting reequeest.
+  
+  
+### Records
+  * IA must keeep records for 5 years, 2 at primary place of business.
+  * Broker/Dealers must keep records for 6 years.
+ 
+ 
+### Agency vs Principal 
+  * Principal - Sells securitites out of inventory and charges markup
+  * Agency    - Goes and finds stocks and charges commissions
+  
+### IA also acts as Broker/Dealer for a Reccomended Trade
+  * Must disclose to clients in writing that they intend to act as principal or agent and which of those they'll utilize.
+  * Must get consent for EACH trade where they act as broker (principal or agency)
+  * No blanket exception.
+
+### Agency Cross Trades
+  * Agency trade where broker/adviser acts as broker for both the buyeer and the seller at least one of whom is an advisory client.
+  * Must disclose conflicts
+  * Must get consent (blanket consent is ok for X-Agency)
+  * Not an agency trade if no commissions aree charged.
+  * Client can revoke authrization
+  * Must send a confirmation beforee ecompletion of transaction 
+  
+### Adviser Acting as Principal  
+  * Must make written disclousre including how they will be mitigated.
+  * Must get consent for each trade (blanket auth is ok)
+  * Prior to settlement say capacity they acted in, conflicts of interest, 
+  * Must provide written confirmation BEFORE completion in plain english and client has right to reject.
+  * Must tell client on confirmation they have the right to accept/reject.
+  
+### Resassignment
+  * Cannot sell advisory contract to another firm without client's consent.
+  
+  
+### Fees
+  * Can take fees based on AUM for past 12 months.
+  * Cannot tie fees to performance unless qualified.
+  
+### Qualified Purchaser
+  * > $1mm under management
+  * Net Worth > $2.1mm excluding house.
+  * Has atleast $5mm in invested assets
+  * Is officer, director, trustee, or GP of investment advisory firm.
+  
+  
+### SEC Custody Rule
+  * May require fidelity bond 
+  * Must act as a prudent and thoughtful investor for the client.
+  
+  
+### ERISA (Employee Retirement Income Security Act)
+  * Establishes IRAs
+  * Creates rules for company sponsored retirement plans  
+  * Prohibts Self Dealings by fudicaries or "parties-in-interest"
+
+
+### Fiducaries
+  * Any person who has a hand in the nanagement of a pension plan is a fudicary
+    - Plan Sponsor - employer or employing company
+    - Plan Admin - person in charge of keeping records for the plan
+    - Trustees - invement managers 
+  * May not personally benefit from any company invovled with plan
+
+### Party In Interest
+  - Any Fiduciary
+  - Employer 
+  - Company Officers
+  - Officers of a labor union
+  - Any person who owns > 10% of the sponsoring corp
+  - Every fiduciary is party-in-interest but not every party-in-interest is a fudicary.
+  
+  
+### ERISA 404(c)
+  - Provides guidelines that if followed reduces the liability of the sponsor/fiduicary
+    - Select appropriate investment choices
+    - Able to make investment decisions in an informed manner
+    - Allow participants to switch invements atleast every quarter.
+
+### Company Stock
+  - Should not exceed 10% of Plan Assets
+  - Must be nationally traded
+  - Must have alternatives
+  - Must disclose all financial information
+  
+    
+    
+  
+  
+  
+  
+  
+  
   

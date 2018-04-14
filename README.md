@@ -88,7 +88,7 @@
   * QuickAssets      = (Current Assets) - (Inventories) - (Dubious Assets Of Doubtful Collection)
   * QuickRatio       = (QuickAssets) / (Current Liabilities)
   * ShareownerEquity = (Common Stock) + (Paid In Surplus) + (Preferred Stock) + (Retained Earnings)
-  * CommonEquity     = (Common Stock) + (Paid In Surplus) + (Retaine dEarnings)
+  * CommonEquity     = (Common Stock) + (Paid In Surplus) + (Retained Earnings)
   * DebtToEquity     = (Bond Indebtedness) / (ShareownerEquity)
   * DividendPayoutRt = (Common Div per Share) / (EarningsPerShare)
   * CurrentYldBonds  = (AnnualInterestRecieved) / (CurrentBondPrice in $)

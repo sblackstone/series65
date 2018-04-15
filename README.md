@@ -619,7 +619,18 @@
   - Must disclose all financial information
   
     
-    
+
+# Chapter 15
+
+### Regulation S-P (Safeguard Privacy)
+  * Must send new clients privacy policy
+  * Must allow opting out of sharing 
+  * May share with vendors, contractors that work with providing service to client.
+  * Must give 30 days to opt out.
+  * Must give notice if moving to another firm and disclosing info to them.
+  
+
+
   
   
   
